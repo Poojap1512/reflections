@@ -1,15 +1,23 @@
 ﻿What happens when you initialize a repository? Why do you need to do it?
+
 Initializing a repository makes it a git repository in order to allow git operations in future.
+
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
 Staging area is different as it contains all the files that needed to be commited.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+You can transfer one file to the staging area and commit rather than multiple files.
+
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+Branches help to add experimental or partially developed code apart from the main version.
 
 How do the diagrams help you visualize the branch structure?
 
