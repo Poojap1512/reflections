@@ -21,6 +21,9 @@ Branches help to add experimental or partially developed code apart from the mai
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams help a lot in visualizing branch structure, the parents of commits and reachability.
+It is very useful.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
