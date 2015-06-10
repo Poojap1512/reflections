@@ -11,4 +11,7 @@ Branches are used on the same repository.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The benefit is getting to know the latest modification or bug fixes so that I do not waste time over the same modification or bug.
- 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Only the learning of git and practicing is difficult. It is very much convenient compared to manul collaboration by mailing or transferring 
+through h/w device and editing, sending back, reverting changes by going through the code again is pretty challenging and time-consuming.
