@@ -26,6 +26,10 @@ It is very useful.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Merging two branches together merges all the desired changes to get one final version of code.
+Both branches are merged into a comon branch (into either one) the other label can be deleted.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Git would need advanced machine learning features and would have committed machine errors.
+Natural merging allows us to keep the desired changes, count for efficiency and accuracy and solve the conflicts.
