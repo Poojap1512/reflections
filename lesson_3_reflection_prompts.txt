@@ -15,3 +15,7 @@ The benefit is getting to know the latest modification or bug fixes so that I do
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Only the learning of git and practicing is difficult. It is very much convenient compared to manul collaboration by mailing or transferring 
 through h/w device and editing, sending back, reverting changes by going through the code again is pretty challenging and time-consuming.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I can add experimental code which might not function properly in a branch or try resolving bug or improving code. This will not affect
+the normal functioning of the code. 
